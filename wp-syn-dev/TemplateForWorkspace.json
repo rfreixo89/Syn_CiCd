@@ -29,6 +29,7 @@
 				"activities": [
 					{
 						"name": "Set variable1",
+						"description": "d",
 						"type": "SetVariable",
 						"dependsOn": [],
 						"policy": {
