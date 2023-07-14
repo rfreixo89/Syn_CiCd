@@ -18,7 +18,7 @@ jobs:
             TemplateFile: './path of the TemplateForWorkspace.json'
             ParametersFile: './path of the TemplateParametersForWorkspace.json'
             OverrideArmParameters: './path of the parameters.yaml'
-            environment: 'Azure Public'
+           # environment: 'Azure Public'
             resourceGroup: ${{secrets.RESOURCEGROUP}}
             clientId: ${{secrets.CLIENTID}}
             clientSecret:  ${{secrets.CLIENTSECRET}}
