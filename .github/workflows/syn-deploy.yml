@@ -4,7 +4,7 @@ name: CI
 on:
     push:
       branches:
-        - workspace_publish
+        - main
 jobs:
     release:
         # You also can use the self-hosted runners.
