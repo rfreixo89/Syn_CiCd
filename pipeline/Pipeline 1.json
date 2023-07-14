@@ -4,7 +4,7 @@
 		"activities": [
 			{
 				"name": "Set variable1",
-				"description": "djs",
+				"description": "djsd",
 				"type": "SetVariable",
 				"dependsOn": [],
 				"policy": {
