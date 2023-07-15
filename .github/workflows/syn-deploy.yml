@@ -4,7 +4,7 @@ name: CI2
 on:
     push:
       branches:
-        - [workspace_publish]
+        - workspace_publish
 jobs:
     release:
         # You also can use the self-hosted runners.
