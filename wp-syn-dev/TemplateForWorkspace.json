@@ -29,7 +29,7 @@
 				"activities": [
 					{
 						"name": "Set variable1",
-						"description": "djsd",
+						"description": "djsdgdf",
 						"type": "SetVariable",
 						"dependsOn": [],
 						"policy": {
