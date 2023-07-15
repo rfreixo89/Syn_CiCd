@@ -1,10 +1,11 @@
 ##Yaml para CICD Synapse
-name: CI
+name: CI3
 
 on:
     push:
       branches:
         - main
+        - workspace_publish
 jobs:
     release:
         # You also can use the self-hosted runners.
