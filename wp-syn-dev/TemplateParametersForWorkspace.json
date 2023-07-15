@@ -10,6 +10,9 @@
 		},
 		"wp-syn-dev-WorkspaceDefaultStorage_properties_typeProperties_url": {
 			"value": "https://dlsrfcdev.dfs.core.windows.net"
+		},
+		"AzureKeyVault1_properties_typeProperties_baseUrl": {
+			"value": "https://akv-rfc-dev.vault.azure.net/"
 		}
 	}
 }
