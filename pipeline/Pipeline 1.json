@@ -16,6 +16,21 @@
 					"variableName": "dsada",
 					"value": "dasd"
 				}
+			},
+			{
+				"name": "Set variable1_copy1",
+				"description": "djsdgdf",
+				"type": "SetVariable",
+				"dependsOn": [],
+				"policy": {
+					"secureOutput": false,
+					"secureInput": false
+				},
+				"userProperties": [],
+				"typeProperties": {
+					"variableName": "dsada",
+					"value": "dasd"
+				}
 			}
 		],
 		"variables": {
