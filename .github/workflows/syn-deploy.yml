@@ -26,4 +26,4 @@ jobs:
             tenantId: ${{secrets.TENANTID}}
             DeleteArtifactsNotInTemplate: 'true'
             managedIdentity: 'False'
-            operation: 'deploy'
+            operation: 'validateDeploy'
