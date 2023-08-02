@@ -1,2 +1,2 @@
-"AppSecrets_properties_typeProperties_baseUrl": "https://akv-rfc-prd.vault.azure.net/"
-
+./wp-syn-dev/ParameterPrd.json
+AppSecrets_properties_typeProperties_baseUrl: https://akv-rfc-prd.vault.azure.net/
