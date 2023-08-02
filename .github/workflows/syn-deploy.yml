@@ -16,8 +16,8 @@ jobs:
           with:
             TargetWorkspaceName: ${{secrets.WORKSPACENAME}}
             TemplateFile: './wp-syn-dev/TemplateForWorkspace.json'
-            ParametersFile: './wp-syn-dev/ParameterPrd.json'
-            #OverrideArmParameters: './path of the parameters.yaml'
+            ParametersFile: './wp-syn-dev/TemplateParametersForWorkspace.json'
+            OverrideArmParameters: './wp-syn-dev/ParameterPrd.json'
             environment: 'Azure Public'
             resourceGroup: ${{secrets.RESOURCEGROUP}}
             clientId: ${{secrets.CLIENTID}}
