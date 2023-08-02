@@ -10,9 +10,18 @@
 					"secureOutput": false,
 					"secureInput": false
 				},
-				"userProperties": []
+				"userProperties": [],
+				"typeProperties": {
+					"variableName": "dsadsadas",
+					"value": ""
+				}
 			}
 		],
+		"variables": {
+			"dsadsadas": {
+				"type": "String"
+			}
+		},
 		"annotations": []
 	}
 }
