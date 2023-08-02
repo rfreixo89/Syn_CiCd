@@ -1,0 +1,4 @@
+# ./parameters/production/parameters.yaml
+AppSecrets_properties_typeProperties_baseUrl: https://akv-rfc-prd.vault.azure.net/
+#devazuresynapse-WorkspaceDefaultStorage_properties_typeProperties_url: https://dev{{organization}}datalake.dfs.core.windows.net
+#AzureDeltaLake_properties_typeProperties_url: https://prod{{organization}}deltalake.dfs.core.windows.net
