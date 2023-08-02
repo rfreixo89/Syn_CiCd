@@ -8,11 +8,11 @@
 		"wp-syn-dev-WorkspaceDefaultSqlServer_connectionString": {
 			"value": "Integrated Security=False;Encrypt=True;Connection Timeout=30;Data Source=tcp:wp-syn-dev.sql.azuresynapse.net,1433;Initial Catalog=@{linkedService().DBName}"
 		},
-		"wp-syn-dev-WorkspaceDefaultStorage_properties_typeProperties_url": {
-			"value": "https://dlsrfcdev.dfs.core.windows.net"
-		},
 		"AzureKeyVault1_properties_typeProperties_baseUrl": {
 			"value": "https://akv-rfc-dev.vault.azure.net/"
+		},
+		"wp-syn-dev-WorkspaceDefaultStorage_properties_typeProperties_url": {
+			"value": "https://dlsrfcdev.dfs.core.windows.net"
 		}
 	}
 }
